@@ -1,0 +1,96 @@
+#banner {
+    width:850px;
+    height: 250px;
+}
+body {
+    
+    background-color:rgb(99, 132, 99);
+}
+#welcome {
+    color:rgb(66, 42, 22);
+    font-family:cursive;
+    font-size:35px;
+    margin-left: 7px;
+    background-color:rgb(206, 193, 148,0.8);
+}
+#home {
+    width: 160px;
+}
+#aboutme {
+    width:160px;
+}
+#java {
+    width: 160px;
+}
+#content {
+    width: 850px;
+}
+#text{
+    font-family:cursive;
+    color: rgb(78, 41, 20);
+    background-color:rgb(206, 193, 148,0.8);
+}
+#text2 {
+    background-color: rgb(206, 193, 148,0.8);
+    color:rgb(78, 41, 20);
+    font-family:cursive;
+}
+#table {
+    background-color: rgb(9, 55, 10,0.5);
+}
+#uri {
+    width: 45px;
+    margin-left: 0px;
+}
+#ram {
+    width: 60px;
+    margin-left: 740px;
+}
+
+#book {
+    position: absolute;
+    width: 90px;
+    top: 315px;
+    left: 760px;
+
+}
+#rose {
+    position: absolute;
+    width: 60px;
+    top: 245px;
+    left: 40px;
+}
+#leaves {
+    position: absolute;
+    width: 900px;
+    height: 300px;
+    top:220px ;
+    left: 0px;
+    z-index: -1;
+}
+#pinkrose {
+    position: absolute;
+    width: 100px;
+    left: 740px;
+    top: 230px;
+    transform: rotate(-10deg);
+}
+#coffee {
+    position: absolute;
+    width: 100px;
+    top: 240px;
+    left: 520px;
+}
+#mirror {
+    position: absolute;
+    width: 100px;
+    left: 230px;
+    top: 255px;
+}
+#fall {
+    position: absolute;
+    width: 120px;
+    transform: rotate(-40deg);
+    top: 330px;
+    z-index: -1;
+}

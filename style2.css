@@ -1,0 +1,136 @@
+#banner {
+    width:850px;
+    height: 250px;
+}
+body {
+    background-image:url(images/mybackground.jpg);
+    background-color:rgb(120, 159, 120);
+}
+#home {
+    width: 160px;
+}
+#aboutme {
+    width:160px;
+}
+#java {
+    width: 160px;
+}
+#content {
+    width: 850px;
+}
+#rose {
+    position: absolute;
+    width: 60px;
+    top: 245px;
+    left: 40px;
+}
+#leaves {
+    position: absolute;
+    width: 900px;
+    height: 300px;
+    top:220px ;
+    left: 0px;
+    z-index: -1;
+}
+#pinkrose {
+    position: absolute;
+    width: 100px;
+    left: 740px;
+    top: 230px;
+    transform: rotate(-10deg);
+}
+#coffee {
+    position: absolute;
+    width: 100px;
+    top: 240px;
+    left: 520px;
+}
+#mirror {
+    position: absolute;
+    width: 100px;
+    left: 230px;
+    top: 255px;
+}
+#sb {
+    width: 200px;
+    position: absolute;
+    top: 470px;
+    left: 70px;
+}
+#skiboard {
+    position:absolute;
+    width: 150px;
+    top: 470px;
+}
+#rugby {
+    width: 500px;
+    position: absolute;
+    top:330px;
+    left: 170px;
+}
+#ma {
+    width: 125px;
+    position: absolute;
+    left: 720px;
+    top: 490px;
+}
+#mike{
+    width: 130px;
+    position: absolute;
+    left: 530px;
+    top: 500px;
+}
+#fren {
+    width: 130px;
+    position: absolute;
+    left: 625px;
+}
+#tob {
+    width: 100px;
+    position: absolute;
+    left: 590px;
+    top:630px;
+    transform: rotate(-45deg);
+}
+#fam {
+    width: 170px;
+    position: absolute;
+    left: 610px;
+    top: 575px;
+}
+#dog {
+    width: 120px;
+    position: absolute;
+    left: 705px;
+    top: 620px;
+}
+#here {
+    color:rgb(66, 42, 22);
+    font-family:cursive;
+    font-size:30px;
+    margin-left: 7px;
+    background-color:rgb(206, 193, 148,0.8);
+}
+
+#table2 { 
+    font-family: cursive;
+    background-color:rgb(206, 193, 148,0.8);
+}
+#table2 {
+    margin-bottom: 260px;
+    color:rgb(66, 42, 22);
+    font-size: 17px;
+}
+#h2 {
+    font-family: cursive;
+    color:rgb(66, 42, 22);
+    background-color:rgb(206, 193, 148,0.8);
+}
+#table {
+    background-color: rgb(9, 55, 10,0.5);
+}
+#table3 {
+    font-family: cursive;
+    color:rgb(66, 42, 22);
+    background-color:rgb(206, 193, 148,0.8) ;
+}

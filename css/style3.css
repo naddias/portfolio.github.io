@@ -1,0 +1,61 @@
+#banner {
+    width:850px;
+    height: 250px;
+}
+body {
+   
+    background-color:rgb(99, 132, 99);
+}
+#home {
+    width: 160px;
+}
+#aboutme {
+    width:160px;
+}
+#java {
+    width: 160px;
+}
+#opening {
+    color: rgb(62, 42, 15);
+   font-family: cursive;
+    background-color: rgb(206, 193, 148,0.8);
+}
+#rose {
+    position: absolute;
+    width: 60px;
+    top: 245px;
+    left: 40px;
+}
+.leaves {
+    position: absolute;
+    width: 900px;
+    height: 300px;
+    top: 220px;
+    left: 0px;
+    z-index: -1;
+}
+#pinkrose {
+    position: absolute;
+    width: 100px;
+    left: 740px;
+    top: 230px;
+    transform: rotate(-10deg);
+}
+#coffee {
+    position: absolute;
+    width: 100px;
+    top: 240px;
+    left: 520px;
+}
+#mirror {
+    position: absolute;
+    width: 100px;
+    left: 230px;
+    top: 255px;
+}
+#content {
+    width: 850px;
+}
+#table {
+    background-color: rgb(9, 55, 10,0.5);
+}
